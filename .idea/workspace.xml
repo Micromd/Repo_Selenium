@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cbcbaa4-06ed-4279-b70d-f4b35693db5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Repo_Selenium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kHbiLqGTn0O7w0ALF9twOjEpne" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="TestNG.Homework12.checkConversionCF">
+    <configuration name="Homework12" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class4" />
+      <option name="MAIN_CLASS_NAME" value="Class4.Homework12" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework12.checkConversion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class4" />
+      <option name="MAIN_CLASS_NAME" value="Class4.Homework12" />
+      <option name="METHOD_NAME" value="checkConversion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework12.checkConversionCF" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class4" />
+      <option name="MAIN_CLASS_NAME" value="Class4.Homework12" />
+      <option name="METHOD_NAME" value="checkConversionCF" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework12.toCheckDates" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class4" />
+      <option name="MAIN_CLASS_NAME" value="Class4.Homework12" />
+      <option name="METHOD_NAME" value="toCheckDates" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework12.toCheckTemp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class4" />
+      <option name="MAIN_CLASS_NAME" value="Class4.Homework12" />
+      <option name="METHOD_NAME" value="toCheckTemp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Homework12.checkConversionCF" />
+        <item itemvalue="TestNG.Homework12.checkConversion" />
+        <item itemvalue="TestNG.Homework12.toCheckTemp" />
+        <item itemvalue="TestNG.Homework12.toCheckDates" />
+        <item itemvalue="TestNG.Homework12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cbcbaa4-06ed-4279-b70d-f4b35693db5e" name="Default Changelist" comment="" />
+      <created>1605360589796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605360589796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2360" y="114" key="#Project_Structure" timestamp="1605361110985">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2360" y="114" key="#Project_Structure/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605361110985" />
+    <state x="2012" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606159854536">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2012" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159854536" />
+    <state x="841" y="441" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605366550772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="841" y="441" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605366550772" />
+    <state width="1877" height="448" key="GridCell.Tab.0.bottom" timestamp="1606159867895">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1304" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605588383467" />
+    <state width="1877" height="448" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159867895" />
+    <state width="1877" height="448" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606106133560" />
+    <state width="1877" height="448" key="GridCell.Tab.0.center" timestamp="1606159867894">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1304" height="292" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605588383467" />
+    <state width="1877" height="448" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159867894" />
+    <state width="1877" height="448" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606106133559" />
+    <state width="1877" height="448" key="GridCell.Tab.0.left" timestamp="1606159867893">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1304" height="292" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605588383467" />
+    <state width="1877" height="448" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159867893" />
+    <state width="1877" height="448" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606106133559" />
+    <state width="1877" height="448" key="GridCell.Tab.0.right" timestamp="1606159867894">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1304" height="292" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605588383467" />
+    <state width="1877" height="448" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159867894" />
+    <state width="1877" height="448" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606106133560" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1606159632168">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159632168" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1606159632168">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159632168" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1606159632167">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159632167" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1606159632168">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606159632168" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Class4/Homework12.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
