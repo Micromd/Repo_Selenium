@@ -25,6 +25,8 @@
     <list default="true" id="9cbcbaa4-06ed-4279-b70d-f4b35693db5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Class5/Homework13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Class5/Homework13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FirstClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,72 +65,12 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="TestNG.Homework13.toCheckError">
-    <configuration name="Homework12.checkConversion" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Homework14.toCheckUserDetails">
+    <configuration name="FirstClass.toCheckDate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Repo_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Class4" />
-      <option name="MAIN_CLASS_NAME" value="Class4.Homework12" />
-      <option name="METHOD_NAME" value="checkConversion" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework12.checkConversionCF" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Repo_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Class4" />
-      <option name="MAIN_CLASS_NAME" value="Class4.Homework12" />
-      <option name="METHOD_NAME" value="checkConversionCF" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework13.toCheckDates" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Repo_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Class5" />
-      <option name="MAIN_CLASS_NAME" value="Class5.Homework13" />
-      <option name="METHOD_NAME" value="toCheckDates" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Homework13.toCheckError" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Repo_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Class5" />
-      <option name="MAIN_CLASS_NAME" value="Class5.Homework13" />
-      <option name="METHOD_NAME" value="toCheckError" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstClass" />
+      <option name="METHOD_NAME" value="toCheckDate" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -154,13 +96,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Homework14.toCheckDates" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class6" />
+      <option name="MAIN_CLASS_NAME" value="Class6.Homework14" />
+      <option name="METHOD_NAME" value="toCheckDates" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework14.toCheckTemp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class6" />
+      <option name="MAIN_CLASS_NAME" value="Class6.Homework14" />
+      <option name="METHOD_NAME" value="toCheckTemp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework14.toCheckUserDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Class6" />
+      <option name="MAIN_CLASS_NAME" value="Class6.Homework14" />
+      <option name="METHOD_NAME" value="toCheckUserDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Homework13.toCheckError" />
+        <item itemvalue="TestNG.Homework14.toCheckUserDetails" />
+        <item itemvalue="TestNG.Homework14.toCheckDates" />
+        <item itemvalue="TestNG.Homework14.toCheckTemp" />
+        <item itemvalue="TestNG.FirstClass.toCheckDate" />
         <item itemvalue="TestNG.Homework13.toCheckNotification" />
-        <item itemvalue="TestNG.Homework13.toCheckDates" />
-        <item itemvalue="TestNG.Homework12.checkConversionCF" />
-        <item itemvalue="TestNG.Homework12.checkConversion" />
       </list>
     </recent_temporary>
   </component>
@@ -200,30 +196,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="841" y="441" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605366550772" />
-    <state width="1877" height="449" key="GridCell.Tab.0.bottom" timestamp="1606671827923">
+    <state width="1877" height="449" key="GridCell.Tab.0.bottom" timestamp="1607002419665">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1304" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605588383467" />
-    <state width="1877" height="449" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606671827923" />
-    <state width="1877" height="448" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606106133560" />
-    <state width="1877" height="449" key="GridCell.Tab.0.center" timestamp="1606671827923">
+    <state width="1877" height="449" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1606782975534" />
+    <state width="1877" height="449" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607002419665" />
+    <state width="914" height="449" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606742807160" />
+    <state width="1877" height="449" key="GridCell.Tab.0.center" timestamp="1607002419664">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1304" height="292" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605588383467" />
-    <state width="1877" height="449" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606671827923" />
-    <state width="1877" height="448" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606106133559" />
-    <state width="1877" height="449" key="GridCell.Tab.0.left" timestamp="1606671827923">
+    <state width="1877" height="449" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1606782975534" />
+    <state width="1877" height="449" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607002419664" />
+    <state width="914" height="449" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606742807160" />
+    <state width="1877" height="449" key="GridCell.Tab.0.left" timestamp="1607002419664">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1304" height="292" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605588383467" />
-    <state width="1877" height="449" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606671827923" />
-    <state width="1877" height="448" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606106133559" />
-    <state width="1877" height="449" key="GridCell.Tab.0.right" timestamp="1606671827923">
+    <state width="1877" height="449" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1606782975534" />
+    <state width="1877" height="449" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607002419664" />
+    <state width="914" height="449" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606742807160" />
+    <state width="1877" height="449" key="GridCell.Tab.0.right" timestamp="1607002419665">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1304" height="292" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1605588383467" />
-    <state width="1877" height="449" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606671827923" />
-    <state width="1877" height="448" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606106133560" />
+    <state width="1877" height="449" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1606782975534" />
+    <state width="1877" height="449" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1607002419665" />
+    <state width="914" height="449" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606742807160" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1606670716233">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -240,16 +236,5 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606670716233" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Class5/Homework13.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
